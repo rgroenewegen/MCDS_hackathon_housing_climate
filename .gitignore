@@ -1,7 +1,7 @@
 *~
 *png
 *nc
-data
+data_raw
 *.jpg
 .Rproj.user
 .Rhistory
