@@ -5,5 +5,7 @@ data
 *.jpg
 .Rproj.user
 .Rhistory
+.Rapphistory
 .RData
 .Ruserdata
+.DS_Store
